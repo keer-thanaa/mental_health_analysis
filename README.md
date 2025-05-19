@@ -6,7 +6,7 @@ This is Day 3 of my data exploration journey, where I analyze a mental health da
 ## 📂 Files Included
 
 - `survey.csv` – The original dataset used for analysis
-- `mental_health A nalysis.ipynb` – Jupyter notebook with code
+- `mental_health Analysis.ipynb` – Jupyter notebook with code
 - `README.md` – This file
 
 ---
